@@ -1,4 +1,4 @@
-Reverse String
+Reverse String:
 This is a simple project to reverse text strings.
 It requires a functional JRE. Installing a JRE is outside the scope of this project.
 For help with Java, I reccommend taking Introduction to Computer Science frome Saylor Academy (www.saylor.org).
